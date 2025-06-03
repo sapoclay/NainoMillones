@@ -6,6 +6,8 @@ NainoMillones es un pequeño proyecto en Python que permite obtener, procesar, a
 
 ## 🚀 ¿Qué hace este programa?
 
+![resultados-euromillones](https://github.com/user-attachments/assets/498dee9a-6131-42e0-9b61-66daaca02acd)
+
 1. **Web Scraping**  
    Extrae automáticamente los resultados anteriores del Euromillones, incluyendo:
    - Fecha del sorteo
@@ -13,9 +15,13 @@ NainoMillones es un pequeño proyecto en Python que permite obtener, procesar, a
    - Estrellas ganadoras
    - Código del Millón
 
+![top3-numeros](https://github.com/user-attachments/assets/0a1499be-04d4-4a54-8e91-d9efeabe9db4)
+
 2. **Análisis Estadístico**  
    - Calcula los **top 3 números y estrellas más frecuentes** por posición en los sorteos analizados
    - Genera un **gráfico interactivo** con la frecuencia acumulada por fecha.
+  
+![grafico-euromillones](https://github.com/user-attachments/assets/43cbb567-afe6-442b-b015-f11c0ad1dc32)
 
 3. **Visualización HTML**  
    Genera un archivo `HTML` completo con:
